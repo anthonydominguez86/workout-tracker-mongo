@@ -24,7 +24,7 @@ I am taking away an overall conception of what I have learned so far. This class
 
 <img width="1440" alt="workout2" src="https://user-images.githubusercontent.com/73844796/115043725-d035a800-9ea2-11eb-9812-31cb02ec4334.png">
 
-<img width="1440" alt="workout3" src="https://user-images.githubusercontent.com/73844796/115043722-cf047b00-9ea2-11eb-97b8-4eb562a7a9a9.png">
+<img width="1440" alt="workout3" src="https://user-images.githubusercontent.com/73844796/115151247-0eb19b00-a03a-11eb-9efa-9ca70e8783e5.png">
 
 # Deployment URL:
 * https://stark-tundra-99838.herokuapp.com/exercise
